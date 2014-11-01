@@ -1048,8 +1048,15 @@ h3.bigger {
 
 .blackbox.special {
     border: 2px solid yellow;
+    -webkit-box-shadow: 0 0 15px 0 rgba(255,255,0,1);
+    box-shadow: 0 0 15px 0 rgba(255,255,0,1);
 }
 
 .blackbox h3 {
     color: #fff
+}
+
+a {
+    color: #7FFF00;
+    text-decoration: underline;
 }
