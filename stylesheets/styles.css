@@ -1046,6 +1046,10 @@ h3.bigger {
     margin: 10px 0px 10px 0px;
 }
 
+.blackbox.special {
+    border: 2px solid yellow;
+}
+
 .blackbox h3 {
     color: #fff
 }
